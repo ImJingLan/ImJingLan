@@ -48,7 +48,6 @@
 ## Status
 
 <img src="https://github-readme-stats.vercel.app/api?username=imjinglan&show_icons=true&count_private=true&hide_border=true&locale=cn&rank_icon=github" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjinglan&layout=donut&locale=cn&hide_border=true" align="right">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ImJingLan/ImJingLan/refs/heads/output/github-contribution-grid-snake.svg" />
