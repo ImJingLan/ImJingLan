@@ -3,7 +3,7 @@
 ### Hello There!
 
 #### Environments
-<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@imjinglan.github.readme?theme=minecraft" height="100" align="right"></a>
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@imjinglan.github.readme?theme=minecraft" height="75" align="right"></a>
 [![](https://img.shields.io/badge/iQOO-13-2E77BC?style=for-the-badge&logo=android&logoColor=ffffff)](https://iqoo.com)
 [![](https://img.shields.io/badge/iPad%20Pro-M1-999999?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/)  
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=for-the-badge&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
