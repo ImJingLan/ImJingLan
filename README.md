@@ -1,9 +1,9 @@
 <h2><b>Hello From Yurik!!!</b></h2>
 
+### Hello There!
+
 #### Environments
-
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@imjinglan.github.readme?theme=minecraft" height="100" align="right"></a>
-
 [![](https://img.shields.io/badge/iQOO-13-2E77BC?style=for-the-badge&logo=android&logoColor=ffffff)](https://iqoo.com)
 [![](https://img.shields.io/badge/iPad%20Pro-M1-999999?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/)  
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=for-the-badge&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
@@ -11,6 +11,7 @@
 [![](https://img.shields.io/badge/LAPTOP-ROG%20Strix-FF0029?style=for-the-badge&logo=republicofgamers&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)  
 [![](https://img.shields.io/badge/IDE-Rider-blue?style=for-the-badge&logo=rider&logoColor=ffffff)](https://www.jetbrains.com/rider/)
 [![](https://img.shields.io/badge/Unity-2022.3.62f1c1-ffffff?style=for-the-badge&logo=Unity&labelColor=000000&logoColor=ffffff)](https://unity.com)
+
 
 #### Languages & Frameworks
 
@@ -43,3 +44,14 @@
 ##### ⬇️**点击下方图片留言**⬇️
 
 [![](https://chat.getloli.com/room/@imjinglan.github/svg?width=600&height=280&limit=20&theme=light&title=imjinglan@github:%20~&fontSize=13)](https://chat.getloli.com/room/@journey-ad.github?title=imjinglan@github:%20~)
+
+## Status
+
+<img src="https://github-readme-stats.vercel.app/api?username=imjinglan&show_icons=true&count_private=true&hide_border=true&locale=cn&rank_icon=github" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjinglan&layout=donut&locale=cn&hide_border=true" align="right">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ImJingLan/ImJingLan/refs/heads/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ImJingLan/ImJingLan/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ImJingLan/ImJingLan/refs/heads/output/github-contribution-grid-snake.svg" />
+</picture>
