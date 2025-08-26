@@ -43,7 +43,7 @@
 
 ##### ⬇️**点击下方图片留言**⬇️
 
-[![](https://chat.getloli.com/room/@imjinglan.github/svg?width=600&height=280&limit=20&theme=light&title=imjinglan@github:%20~&fontSize=13)](https://chat.getloli.com/room/@journey-ad.github?title=imjinglan@github:%20~)
+[![](https://chat.getloli.com/room/@imjinglan.github/svg?width=600&height=280&limit=20&theme=light&title=imjinglan@github:%20~&fontSize=13)](https://chat.getloli.com/room/@imjinglan.github?title=imjinglan@github:%20~)
 
 ## Status
 
