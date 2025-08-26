@@ -45,6 +45,10 @@
 
 [![](https://chat.getloli.com/room/@imjinglan.github/svg?width=600&height=280&limit=20&theme=light&title=imjinglan@github:%20~&fontSize=13)](https://chat.getloli.com/room/@imjinglan.github?title=imjinglan@github:%20~)
 
+#### Recent Blog
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Status
 
 <img src="https://github-readme-stats.vercel.app/api?username=imjinglan&show_icons=true&count_private=true&hide_border=true&locale=cn&rank_icon=github" align="left">
@@ -54,3 +58,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ImJingLan/ImJingLan/refs/heads/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ImJingLan/ImJingLan/refs/heads/output/github-contribution-grid-snake.svg" />
 </picture>
+
