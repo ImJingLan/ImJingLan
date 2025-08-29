@@ -13,8 +13,9 @@
 [![](https://img.shields.io/badge/iPad%20Pro-M1-999999?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/)  
 [![](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/MacBook-M3%20Pro-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)](https://apple.com/)
-[![](https://img.shields.io/badge/LAPTOP-ROG%20Strix-FF0029?style=for-the-badge&logo=republicofgamers&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)  
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-2F80ED?style=for-the-badge&logo=vscodium&logoColor=ffffff)](https://www.jetbrains.com/rider/)
+[![](https://img.shields.io/badge/LAPTOP-ROG%20Strix-FF0029?style=for-the-badge&logo=republicofgamers&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
+![](https://img.shields.io/badge/SONY-MDR%207506-ffffff?style=for-the-badge&logo=sony&logoColor=ffffff)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-2F80ED?style=for-the-badge&logo=vscodium&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Unity-2022.3.62f1c1-ffffff?style=for-the-badge&logo=Unity&labelColor=000000&logoColor=ffffff)](https://unity.com)
 
 
@@ -61,17 +62,6 @@
 
 #### Recent Blog
 <!-- BLOG-POST-LIST:START -->
-- 👺 [Steam 上手指北](https://yurik.cafe/2025/steam-usage/) 
-
-- 💯 [永远是个小孩 - 站点更新](https://yurik.cafe/2025/i-am-always-a-kid/) 
-
-- 🌮 [MacBook Pro 2023 上手体验](https://yurik.cafe/2025/macbook-pro-review/) 
-
-- 🌝 [南山南，北秋悲](https://yurik.cafe/2024/sad-story/) 
-
-- 🫣 [「转载」硬件篇 | NAS硬件选购DIY指南：不同价位的硬件搭配建议及心得](https://yurik.cafe/2024/nas-hardware-guide/) 
-
-- 🎉 [这世界有那么多人](https://yurik.cafe/2024/thought-memories/) 
 <!-- BLOG-POST-LIST:END -->
 
 #### Status
