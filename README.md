@@ -62,6 +62,17 @@
 
 #### Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- 👺 [Steam 上手指北](https://yurik.cafe/2025/steam-usage/) 
+
+- 💯 [永远是个小孩 - 站点更新](https://yurik.cafe/2025/i-am-always-a-kid/) 
+
+- 🌮 [MacBook Pro 2023 上手体验](https://yurik.cafe/2025/macbook-pro-review/) 
+
+- 🌝 [南山南，北秋悲](https://yurik.cafe/2024/sad-story/) 
+
+- 🫣 [「转载」硬件篇 | NAS硬件选购DIY指南：不同价位的硬件搭配建议及心得](https://yurik.cafe/2024/nas-hardware-guide/) 
+
+- 🎉 [这世界有那么多人](https://yurik.cafe/2024/thought-memories/) 
 <!-- BLOG-POST-LIST:END -->
 
 #### Status
