@@ -2,7 +2,7 @@
 
 ### Hello There!
 
-- 🏫 Student in ZUST.
+- 🏫 College Student.
 - 📟 Full Stack Developer、🔨 UI/UX Designer、🎙️ Creator (Video & Podcast)、📷 Photographer、🎮 Gamer
 - 📖 `zh-CN`、 `en-US`、 `jp` (Learning)
 - 🦋 INFP-T
