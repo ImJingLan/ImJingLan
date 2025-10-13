@@ -4,7 +4,8 @@
 
 - 🏫 College Student.
 - 📟 Full Stack Developer、🔨 UI/UX Designer、🎙️ Creator (Video & Podcast)、📷 Photographer、🎮 Gamer
-- 📖 `zh-CN`、 `en-US`、 `jp` (Learning)
+- 📖 `zh-CN`, `en-US`
+- 📚 Learning: `de`, `jp` (Learning)
 - 🦋 INFP-T
 
 #### Environments
