@@ -63,17 +63,17 @@
 
 #### Recent Blog
 <!-- BLOG-POST-LIST:START -->
-- 👺 [N100 小主机上手体验](https://yurik.cafe/2025/n100-mini-pc/) 
+- 👺 [我集齐了 Apple 全家桶](https://yurik.cafe/2026/i-got-full-apple-ecosystem/) 
 
-- 💯 [Steam 上手指北](https://yurik.cafe/2025/steam-usage/) 
+- 💯 [N100 小主机上手体验](https://yurik.cafe/2025/n100-mini-pc/) 
 
-- 🌮 [永远是个小孩 - 站点更新](https://yurik.cafe/2025/i-am-always-a-kid/) 
+- 🌮 [Steam 上手指北](https://yurik.cafe/2025/steam-usage/) 
 
-- 🌝 [MacBook Pro 2023 上手体验](https://yurik.cafe/2025/macbook-pro-review/) 
+- 🌝 [永远是个小孩 - 站点更新](https://yurik.cafe/2025/i-am-always-a-kid/) 
 
-- 🫣 [南山南，北秋悲](https://yurik.cafe/2024/sad-story/) 
+- 🫣 [MacBook Pro 2023 上手体验](https://yurik.cafe/2025/macbook-pro-review/) 
 
-- 🎉 [「转载」硬件篇 | NAS硬件选购DIY指南：不同价位的硬件搭配建议及心得](https://yurik.cafe/2024/nas-hardware-guide/) 
+- 🎉 [南山南，北秋悲](https://yurik.cafe/2024/sad-story/) 
 <!-- BLOG-POST-LIST:END -->
 
 #### Status
