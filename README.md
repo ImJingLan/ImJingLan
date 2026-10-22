@@ -63,17 +63,17 @@
 
 #### Recent Blog
 <!-- BLOG-POST-LIST:START -->
-- 👺 [40 元自制开源版 Yubikey &lpar;支持 FIDO2 和 OpenPGP 的安全密钥&rpar;](https://yurik.cafe/2026/rp2350-passkey/) 
+- 👺 [40 元自制开源版 Yubikey &lpar;支持 FIDO2 和 OpenPGP 的安全密钥&rpar;](https://yurik.cafe/2026/rp2350-passkey) 
 
-- 💯 [我集齐了 Apple 全家桶](https://yurik.cafe/2026/i-got-full-apple-ecosystem/) 
+- 💯 [我集齐了 Apple 全家桶](https://yurik.cafe/2026/i-got-full-apple-ecosystem) 
 
-- 🌮 [N100 小主机上手体验](https://yurik.cafe/2025/n100-mini-pc/) 
+- 🌮 [N100 小主机上手体验](https://yurik.cafe/2025/n100-mini-pc) 
 
-- 🌝 [Steam 上手指北](https://yurik.cafe/2025/steam-usage/) 
+- 🌝 [Steam 上手指北](https://yurik.cafe/2025/steam-usage) 
 
-- 🫣 [永远是个小孩 - 站点更新](https://yurik.cafe/2025/i-am-always-a-kid/) 
+- 🫣 [永远是个小孩 - 站点更新](https://yurik.cafe/2025/i-am-always-a-kid) 
 
-- 🎉 [我家族没精神病史 - MacBook Pro 2023 上手体验](https://yurik.cafe/2025/macbook-pro-review/) 
+- 🎉 [我家族没精神病史 - MacBook Pro 2023 上手体验](https://yurik.cafe/2025/macbook-pro-review) 
 <!-- BLOG-POST-LIST:END -->
 
 #### Status
