@@ -5,7 +5,7 @@
 - 🏫 College Student.
 - 📟 Full Stack Developer、🔨 UI/UX Designer、🎙️ Creator (Video & Podcast)、📷 Photographer、🎮 Gamer
 - 📖 `zh-CN`, `en-US`
-- 📚 Learning: `de`, `jp` (Learning)
+- 📚 Learning: `de`, `jp`
 - 🦋 INFP-T
 
 #### Environments
@@ -55,7 +55,15 @@
 #### Console & Game
 
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=for-the-badge&logo=nintendo%20switch&logoColor=ffffff)
-[![](https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=ffffff)](//steamcommunity.com/id/imjinglan)
+[![](https://img.shields.io/badge/Steam-ImJingLan-171a21?style=for-the-badge&logo=steam&logoColor=ffffff)](//steamcommunity.com/id/imjinglan)
+![](https://img.shields.io/badge/PSN-xihu06-0070D1?style=for-the-badge&logo=playstation&logoColor=ffffff)
+![](https://img.shields.io/badge/XBOX-ImJingLan-107C10?style=for-the-badge)
+
+#### Crypto
+
+![](https://img.shields.io/badge/-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+![](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![](https://img.shields.io/badge/-Tether-50AF95?style=for-the-badge&logo=tether&logoColor=white)
 
 ##### ⬇️**点击下方图片留言**⬇️
 
